@@ -1,0 +1,31 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 0 16px;
+  max-width: 960px;
+  margin: auto;
+  background: #f9f9f9;
+}
+
+header {
+  background: #333;
+  color: white;
+  padding: 12px 16px;
+}
+
+nav a {
+  color: white;
+  margin-right: 12px;
+  text-decoration: none;
+}
+
+main {
+  padding: 24px 0;
+}
+
+footer {
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  margin-top: 48px;
+}
