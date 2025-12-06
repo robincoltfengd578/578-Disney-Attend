@@ -1,4 +1,9 @@
-<!doctype html>
+---
+title: Summary
+---
+
+<div id="summaryView">
+
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -118,3 +123,6 @@
   </script>
 </body>
 </html>
+</div>
+
+<script src="/assets/summary.js"></script>
