@@ -1,0 +1,16 @@
+title: Machine Monitoring Dashboard
+description: Daily input and summary views for machine and staff attendance
+baseurl: "" # leave empty unless using a subpath
+url: "https://ysaak.github.io" # replace with your GitHub Pages URL
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
