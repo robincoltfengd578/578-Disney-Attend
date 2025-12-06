@@ -1,4 +1,8 @@
-<!doctype html>
+---
+title: Input
+---
+
+<form id="attendanceForm">
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -100,3 +104,7 @@
   </script>
 </body>
 </html>
+
+</form>
+
+<script src="/assets/input.js"></script>
